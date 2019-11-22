@@ -16,7 +16,10 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [bitcon](https://bitcon.tech/)
  - [LESBIANS WHO TECH & ALLIES SUMMIT](https://lesbianswhotech.org/sanfrancisco2020/)
  
-
+**Organizations**
+ - [dev/color](https://www.devcolor.org/about)
+ - [PyLadies](http://www.pyladies.com/)
+ 
 **Job Platforms**
  - [Blacks in Tech Job Board](https://www.blacksintechnology.net/jobs-board/)
  - [Grace Hopper resume database](https://ghc.anitab.org/resume-database/)
