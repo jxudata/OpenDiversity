@@ -18,7 +18,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [LESBIANS WHO TECH & ALLIES SUMMIT](https://lesbianswhotech.org/sanfrancisco2020/)
  
 **Organizations**
- - [dev/color](https://www.devcolor.org/about)
+ - [dev/color](https://www.devcolor.org/about): to empower Black software engineers to help one another grow into industry leaders.
  - [PyLadies](http://www.pyladies.com/): an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. 
  - [MotherCoders](http://www.mothercoders.org/)
  - [Ladies of Code](https://www.ladiesofcode.com/)
