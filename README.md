@@ -11,9 +11,13 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [Tech Inclusion](https://techinclusion.co/)
  - [Discrupt Indy](http://disruptindy.com/)
  - [TechConnext](https://www.blackenterprise.com/techconnext/)
+ - [Richard Tapia Celebration of Diversity in Computing](http://www.richardtapia.org/)
+ - [Grace Hopper Celebration of Women in Computing](http://gracehopper.org/)
  
 **Universities**
-
+ - CMU
+   - [Women@SCS](https://www.women.cs.cmu.edu/)
+   
  - UIUC
    - [Women in Computer Science (WCS)](http://wcs.illinois.edu/)
    - [NSBE-UIUC](https://students.grainger.illinois.edu/nsbe/home/)
