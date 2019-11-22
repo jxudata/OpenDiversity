@@ -5,6 +5,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
 
 **Curations**
  - [Hire More Women in Tech](https://www.hiremorewomenintech.com/)
+ - [AAAS Resource Directory of Scientists and Engineers with Disabilities](http://ehrweb.aaas.org/resource/resourceBrochure.pdf) 
  
 **Conferences**
  - [2019 Code2040 Summit: The Code for Justice](http://www.code2040.org/thesummit)
@@ -28,6 +29,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [Code2040](http://www.code2040.org/)
  - [The Last Mile](https://thelastmile.org/): prepares incarcerated individuals for successful reentry through business and technology training.
  - [Shift](https://www.shift.org/): talent development company powering successful career shifts for military veterans.
+ - [Specialisterne USA](https://www.specialisterneusa.com/): an international, award winning social enterprise setting the “gold standard” for neurodiversity employment. 
  
 **Job Platforms**
  - [Blacks in Tech Job Board](https://www.blacksintechnology.net/jobs-board/)
