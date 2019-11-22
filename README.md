@@ -18,7 +18,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  
 **Organizations**
  - [dev/color](https://www.devcolor.org/about)
- - [PyLadies](http://www.pyladies.com/)
+ - [PyLadies](http://www.pyladies.com/): an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. 
  
 **Job Platforms**
  - [Blacks in Tech Job Board](https://www.blacksintechnology.net/jobs-board/)
