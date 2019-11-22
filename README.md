@@ -13,7 +13,10 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [TechConnext](https://www.blackenterprise.com/techconnext/)
  - [Richard Tapia Celebration of Diversity in Computing](http://www.richardtapia.org/)
  - [Grace Hopper Celebration of Women in Computing](http://gracehopper.org/)
- 
+
+**Platforms**
+
+
 **Universities**
  - CMU
    - [Women@SCS](https://www.women.cs.cmu.edu/)
@@ -25,3 +28,13 @@ The purpose of this resource list is to help companies and recruiters naviagte t
    - [Blacks and African Americans in Computing](http://baac.engr.illinois.edu/)
    - [Latinxs In Computer Science](http://latinoscs.web.illinois.edu/)
    - [Society of Women Engineers (SWE)](https://www.societyofwomenengineers.illinois.edu/)
+   
+ - Stanford
+ 
+ - Berkeley
+ 
+ - MIT
+ 
+ - U of Michigan
+ 
+ - NYU
