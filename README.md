@@ -26,7 +26,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [MotherCoders](http://www.mothercoders.org/)
  - [Ladies of Code](https://www.ladiesofcode.com/)
  - [Code2040](http://www.code2040.org/)
- 
+ - [The Last Mile](https://thelastmile.org/)
  
 **Job Platforms**
  - [Blacks in Tech Job Board](https://www.blacksintechnology.net/jobs-board/)
