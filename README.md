@@ -34,6 +34,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [Tech Ladies](https://www.hiretechladies.com/jobs)
  - [Women in Technology Job Board](https://www.womenintechnology.org/job-board)
  - [Recruit Disabilities](http://recruitdisability.org/)
+ - [Misdemeanor And Felony-Friendly Jobs](https://www.70millionjobs.com/search)
 
 **Universities**
  - CMU
