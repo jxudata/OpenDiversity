@@ -33,7 +33,7 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [Grace Hopper resume database](https://ghc.anitab.org/resume-database/)
  - [Tech Ladies](https://www.hiretechladies.com/jobs)
  - [Women in Technology Job Board](https://www.womenintechnology.org/job-board)
- 
+ - [Recruit Disabilities](http://recruitdisability.org/)
 
 **Universities**
  - CMU
