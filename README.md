@@ -14,9 +14,15 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [Richard Tapia Celebration of Diversity in Computing](http://www.richardtapia.org/)
  - [Grace Hopper Celebration of Women in Computing](http://gracehopper.org/)
  - [bitcon](https://bitcon.tech/)
+ - [LESBIANS WHO TECH & ALLIES SUMMIT](https://lesbianswhotech.org/sanfrancisco2020/)
+ 
 
 **Job Platforms**
-
+ - [Blacks in Tech Job Board](https://www.blacksintechnology.net/jobs-board/)
+ - [Grace Hopper resume database](https://ghc.anitab.org/resume-database/)
+ - [Tech Ladies](https://www.hiretechladies.com/jobs)
+ - [Women in Technology Job Board](https://www.womenintechnology.org/job-board)
+ 
 
 **Universities**
  - CMU
