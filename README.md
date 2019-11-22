@@ -4,6 +4,7 @@ Diversity hiring is hiring **based on merit with special care taken to ensure pr
 The purpose of this resource list is to help companies and recruiters naviagte through diversity hiring. Let's come together and build an index of organizations, conferences, contacts, and other useful resources that value diversity. 
 
 **Conferences**
+ - [2019 Code2040 Summit: The Code for Justice](http://www.code2040.org/thesummit)
  - [AfroTech](https://afrotech.com/)
  - [BlackTech Week](http://blacktechweek.com/)
  - [Black Women Talk Tech](https://www.blackwomentalktech.com/)
@@ -19,6 +20,10 @@ The purpose of this resource list is to help companies and recruiters naviagte t
 **Organizations**
  - [dev/color](https://www.devcolor.org/about)
  - [PyLadies](http://www.pyladies.com/): an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. 
+ - [MotherCoders](http://www.mothercoders.org/)
+ - [Ladies of Code](https://www.ladiesofcode.com/)
+ - [Code2040](http://www.code2040.org/)
+ 
  
 **Job Platforms**
  - [Blacks in Tech Job Board](https://www.blacksintechnology.net/jobs-board/)
