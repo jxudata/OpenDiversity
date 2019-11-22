@@ -3,6 +3,9 @@ Diversity hiring is hiring **based on merit with special care taken to ensure pr
 
 The purpose of this resource list is to help companies and recruiters naviagte through diversity hiring. Let's come together and build an index of organizations, conferences, contacts, and other useful resources that value diversity. 
 
+**Curations**
+ - [Hire More Women in Tech](https://www.hiremorewomenintech.com/)
+ 
 **Conferences**
  - [2019 Code2040 Summit: The Code for Justice](http://www.code2040.org/thesummit)
  - [AfroTech](https://afrotech.com/)
