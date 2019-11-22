@@ -13,8 +13,9 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [TechConnext](https://www.blackenterprise.com/techconnext/)
  - [Richard Tapia Celebration of Diversity in Computing](http://www.richardtapia.org/)
  - [Grace Hopper Celebration of Women in Computing](http://gracehopper.org/)
+ - [bitcon](https://bitcon.tech/)
 
-**Platforms**
+**Job Platforms**
 
 
 **Universities**
