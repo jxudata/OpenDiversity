@@ -5,6 +5,12 @@ The purpose of this resource list is to help companies and recruiters naviagte t
 
 **Conferences**
  - [AfroTech](https://afrotech.com/)
+ - [BlackTech Week](http://blacktechweek.com/)
+ - [Black Women Talk Tech](https://www.blackwomentalktech.com/)
+ - [Black Is Tech Conference](http://blackistechconference.com/)
+ - [Tech Inclusion](https://techinclusion.co/)
+ - [Discrupt Indy](http://disruptindy.com/)
+ - [TechConnext](https://www.blackenterprise.com/techconnext/)
  
 **Universities**
 
