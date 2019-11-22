@@ -36,9 +36,13 @@ The purpose of this resource list is to help companies and recruiters naviagte t
  - [Recruit Disabilities](http://recruitdisability.org/)
  - [Misdemeanor And Felony-Friendly Jobs](https://www.70millionjobs.com/search)
 
+**Regional**
+ - Pittsburgh
+   - [Black Tech Nation](https://blacktechnation.com/)
 **Universities**
  - CMU
    - [Women@SCS](https://www.women.cs.cmu.edu/)
+   - [CMU NSBE](http://www.cmunsbe.com/)
    
  - UIUC
    - [Women in Computer Science (WCS)](http://wcs.illinois.edu/)
