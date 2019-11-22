@@ -6,4 +6,4 @@ The purpose of this resource list is to help companies and recruiters naviagte t
 **Universities**
 
  - UIUC
- -- [Women in Computer Science](http://wcs.illinois.edu/)
+   - [Women in Computer Science](http://wcs.illinois.edu/)
